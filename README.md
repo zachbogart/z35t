@@ -7,7 +7,7 @@ Library for JS work on-the-go
 Observable notebook, or any browser ESM import:
 
 ```js
-z35t = import("https://cdn.jsdelivr.net/gh/zachbogart/z35t@main/index.js")
+z35t = import("https://cdn.jsdelivr.net/gh/zachbogart/z35t@main/src/index.js")
 z35t.version
 ```
 
