@@ -1,0 +1,7 @@
+{
+  "entryPoints": ["index.js"],
+  "out": "docs",
+  "name": "z35t",
+  "readme": "README.md",
+  "skipErrorChecking": true
+}

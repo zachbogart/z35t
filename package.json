@@ -1,0 +1,23 @@
+{
+  "name": "z35t",
+  "version": "0.1.0",
+  "description": "Personal JS utility library, importable from Observable or any JS environment.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "sideEffects": false,
+  "license": "MIT",
+  "author": "Zach Bogart",
+  "keywords": [],
+  "scripts": {
+    "test": "node --test",
+    "docs": "typedoc"
+  },
+  "devDependencies": {
+    "typedoc": "^0.28.20"
+  }
+}
